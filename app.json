@@ -1,0 +1,12 @@
+{
+  "name": "Vote Bot",
+  "description": "A Telegram voting bot with special and awesome features.",
+  "repository": "https://github.com/yourname/vote-bot",
+  "keywords": ["telegram", "bot", "vote", "poll"],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Your Telegram Bot Token",
+      "required": true
+    }
+  }
+}
